@@ -55,13 +55,4 @@ Based in Bengaluru, India. I build high-performance web applications, cross-plat
 
 ---
 
-## 📊 GitHub & Coding Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil585581&show_icons=true&theme=tokyonight" alt="Harshil S's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil585581&layout=compact&theme=tokyonight" alt="Harshil S's Most Used Languages" height="180px" />
-</p>
-
----
-
 *“Turning vision into reality with creative innovation. Let's build something scalable together.”*
