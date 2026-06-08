@@ -22,19 +22,9 @@ Based in Bengaluru, India. I build high-performance web applications, cross-plat
 
 ---
 
-## 💼 Work & Experience
-* **Full Stack Developer** @ **Mavixy** (2025 - Present)
-  * Engineering scalable web solutions and APIs.
-* **Software Developer** @ **Sudeeksha Technologies** (2024 - 2025)
-  * Developed robust web and mobile applications with integrated databases.
-* **Software Intern** @ **ATS Power Solutions** (2023 - 2024)
-  * Built internal automation workflows and assisted with backend scripts.
-
----
-
 ## 🏆 Featured Projects
 
-### 🛠️ [Zip Safari](https://zipsafari.netlify.netlify.app/) — All-in-One Bulk File Processing Engine
+### 🛠️ [Zip Safari](https://zipsafari.netlify.app/) — All-in-One Bulk File Processing Engine
 * **Overview:** A bulk-processing SaaS utility built to handle massive file conversion, compression, and upscale.
 * **Core Tech:** React, Python, FFmpeg.
 * **Key Features:** Upload mixed ZIP archives for bulk conversion (PDF, Word, Images); AI image/video upscaling, PDF encryption, and custom watermarking.
