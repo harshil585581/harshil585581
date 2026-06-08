@@ -1,7 +1,7 @@
 # Hi there! I'm Harshil S 👋 
 
 ### 🚀 Full Stack Developer & Smart Automation Specialist
-Based in Bengaluru, India. I build high-performance web applications, cross-platform mobile apps, and intelligent workflow automation systems to transform complex operations into seamless digital experiences.
+Based in Bengaluru, India. I build high-performance web applications, cross-platform mobile apps, and intelligent workflow automation systems to transform complex operations into seamless digital experiences. 
 
 ---
 
