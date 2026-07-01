@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harshil S
 
 <h3 align="center">
-Full Stack Developer • React • React Native • Python • AI Automation
+Full Stack Developer • React.js • Next.js • React Native • Python • AI Automation
 </h3>
 
 <p align="center">
