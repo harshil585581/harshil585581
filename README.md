@@ -97,7 +97,7 @@ An all-in-one bulk file processing SaaS built for creators, businesses, and prof
 
 ### Tech
 
-React • Python • FFmpeg
+React.js • JavaScript • Python • FFmpeg
 
 ---
 
@@ -148,7 +148,7 @@ Cross-platform financial management system with synchronized Web Dashboard and M
 
 ### Tech
 
-React • React Native • Supabase • Llama 3 • Tesseract OCR
+React • React Native • Tailwind CSS • Llama 3 • Tesseract OCR • PostgreSQL
 
 ---
 
@@ -171,7 +171,7 @@ Modern cinematic landing page featuring smooth animations, responsive layouts, a
 
 ### Tech
 
-HTML5 • CSS3 • JavaScript
+React.js • Tailwind CSS • JavaScript
 
 ---
 
@@ -182,10 +182,6 @@ HTML5 • CSS3 • JavaScript
 ✔ Web Applications
 
 ✔ Mobile Applications
-
-✔ Dashboard Development
-
-✔ Admin Panels
 
 ✔ Workflow Automation
 
@@ -209,44 +205,6 @@ HTML5 • CSS3 • JavaScript
 - Enterprise SaaS Architecture
 - Cloud Deployments
 - Scalable Backend Systems
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
 
 ---
 
